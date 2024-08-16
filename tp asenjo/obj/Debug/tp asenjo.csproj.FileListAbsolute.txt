@@ -1,0 +1,11 @@
+C:\Users\unisanta\source\repos\tp asenjo\tp asenjo\bin\Debug\tp asenjo.exe.config
+C:\Users\unisanta\source\repos\tp asenjo\tp asenjo\bin\Debug\tp asenjo.exe
+C:\Users\unisanta\source\repos\tp asenjo\tp asenjo\bin\Debug\tp asenjo.pdb
+C:\Users\unisanta\source\repos\tp asenjo\tp asenjo\obj\Debug\tp asenjo.csproj.AssemblyReference.cache
+C:\Users\unisanta\source\repos\tp asenjo\tp asenjo\obj\Debug\tp asenjo.csproj.SuggestedBindingRedirects.cache
+C:\Users\unisanta\source\repos\tp asenjo\tp asenjo\obj\Debug\tp_asenjo.Form1.resources
+C:\Users\unisanta\source\repos\tp asenjo\tp asenjo\obj\Debug\tp_asenjo.Properties.Resources.resources
+C:\Users\unisanta\source\repos\tp asenjo\tp asenjo\obj\Debug\tp asenjo.csproj.GenerateResource.cache
+C:\Users\unisanta\source\repos\tp asenjo\tp asenjo\obj\Debug\tp asenjo.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\source\repos\tp asenjo\tp asenjo\obj\Debug\tp asenjo.exe
+C:\Users\unisanta\source\repos\tp asenjo\tp asenjo\obj\Debug\tp asenjo.pdb
