@@ -44,7 +44,7 @@ namespace tp_asenjo
             Socket socketenviar = new Socket(AddressFamily.InterNetwork, SocketType.Dgram, ProtocolType.IP);
             IPEndPoint endereco1 = new IPEndPoint(IPAddress.Parse("172.16.212.26"), 9060);
 
-            string msg = "Matheus: " + textBox1.Text;
+            string msg = "Patrick: " + textBox1.Text;
 
             socketenviar.SendTo(Encoding.ASCII.GetBytes(msg), endereco1);
 
